@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkguild_auction"]=self["webpackChunkguild_auction"]||[]).push([[455],{9455:function(n,u,e){e.r(u),e.d(u,{default:function(){return l}});var i=e(3396);function t(n,u,e,t,r,a){return(0,i.wg)(),(0,i.iD)("div",null,"綢緞分配表，施工中...")}var r={name:"SatinView"},a=e(89);const c=(0,a.Z)(r,[["render",t]]);var l=c}}]);
+//# sourceMappingURL=455.eac1ddd5.js.map
